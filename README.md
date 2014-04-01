@@ -6,5 +6,5 @@ This is a small skeleton project that shows how to create multi-module Gradle bu
 
 ```
 gradle run
-gradle distZip
+gradle cleanDist
 ```
